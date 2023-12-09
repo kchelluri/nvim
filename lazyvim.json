@@ -1,6 +1,7 @@
 {
   "extras": [
-
+    "lazyvim.plugins.extras.lang.elixir",
+    "lazyvim.plugins.extras.lang.java"
   ],
   "news": {
     "NEWS.md": "2123"
