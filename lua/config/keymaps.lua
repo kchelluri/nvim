@@ -7,6 +7,3 @@
 --map("n", "<C-Down>", "<cmd>resize -2<cr>", { desc = "Decrease window height" })
 --map("n", "<C-Left>", "<cmd>vertical resize -2<cr>", { desc = "Decrease window width" })
 --map("n", "<C-Right>", "<cmd>vertical resize +2<cr>", { desc = "Increase window width" })
-
---vim.keymap.set("n", "<leader>tt", ":ToggleTerm direction=float <CR>", { desc = "Open terminal" })
---vim.keymap.set("n", "<leader>tT", ":ToggleTerm direction=horizontal <CR>", { desc = "Open horizontal terminal split" })
